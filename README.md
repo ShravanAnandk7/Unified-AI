@@ -1,15 +1,15 @@
 # Unified-AI
 An attempt to unify all AI applications under one tree
 
-##Image Data
+## Image Data
 - Classification
 - Regression
 - Meta Learning
 - GAN (DCGAN,SRGAN)
 
-##Time Series Data
+## Time Series Data
 - RNN
 - LSTM
 
-##Text/Language Data
+## Text/Language Data
 - BERT
