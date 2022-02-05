@@ -5,6 +5,7 @@ An attempt to unify all AI applications under one tree
 - Classification
 - Regression
 - Meta Learning
+- Multi object detection (SSD, YOLO, RCNN)
 - GAN (DCGAN, SRGAN)
 
 ## Time Series Data
